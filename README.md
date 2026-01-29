@@ -34,7 +34,7 @@ Unauthorized monitoring of user input is illegal and unethical.
 - Ethical hacking principles
 
 ### 📂 Files in Repository
-- `keylogger.py` 
+- `keylogger_tool.py` 
 - `README.md`
 - `.gitignore`
 
